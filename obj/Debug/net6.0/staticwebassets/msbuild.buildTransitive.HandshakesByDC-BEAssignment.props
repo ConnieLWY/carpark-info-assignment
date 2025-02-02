@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\buildMultiTargeting\HandshakesByDC-BEAssignment.props" />
-</Project>
