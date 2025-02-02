@@ -54,8 +54,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AQIAAHgAAAAAAAAAAAAAAIAAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-02T15:10:34.815Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-02T15:10:34.815Z"
             },
             {
               "$type": "Document",
@@ -67,8 +66,7 @@
               "RelativeToolTip": "Controllers\\v2\\AuthController.cs",
               "ViewState": "AQIAAG4AAAAAAAAAAAAUwIAAAABLAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-02T15:25:42.208Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-02T15:25:42.208Z"
             },
             {
               "$type": "Document",
@@ -80,8 +78,7 @@
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-02T15:18:53.857Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-02T15:18:53.857Z"
             },
             {
               "$type": "Document",
@@ -93,8 +90,7 @@
               "RelativeToolTip": "Controllers\\v2\\FavoriteController.cs",
               "ViewState": "AQIAAHYAAAAAAAAAAAAkwIoAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-02T15:12:48.521Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-02T15:12:48.521Z"
             },
             {
               "$type": "Document",
@@ -106,8 +102,7 @@
               "RelativeToolTip": "Controllers\\v1\\CarparkImportController.cs",
               "ViewState": "AQIAACAAAAAAAAAAAAAQwC4AAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-02T15:16:46.187Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-02T15:16:46.187Z"
             },
             {
               "$type": "Document",
@@ -119,8 +114,7 @@
               "RelativeToolTip": "Controllers\\v1\\UserController.cs",
               "ViewState": "AQIAALYAAAAAAAAAAAAgwNsAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-02T15:16:49.532Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-02T15:16:49.532Z"
             },
             {
               "$type": "Document",
@@ -132,8 +126,7 @@
               "RelativeToolTip": "Controllers\\v2\\CarparkController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-02T15:12:36.67Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-02T15:12:36.67Z"
             },
             {
               "$type": "Document",
@@ -143,7 +136,7 @@
               "RelativeDocumentMoniker": "BackgroundRefesh.cs",
               "ToolTip": "C:\\Users\\User\\source\\repos\\HandshakesByDC-BEAssignment\\BackgroundRefesh.cs",
               "RelativeToolTip": "BackgroundRefesh.cs",
-              "ViewState": "AQIAAEwAAAAAAAAAAAAwwFEAAABiAAAA",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAwwFgAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-02T16:03:58.781Z",
               "EditorCaption": ""

@@ -1,0 +1,27 @@
+# Ignore build outputs
+bin/
+obj/
+
+# Ignore user-specific files
+*.user
+*.suo
+*.userprefs
+
+# Keep the database files
+!Carpark.db
+!Carpark.db-shm
+!Carpark.db-wal
+
+# Ignore development settings
+appsettings.Development.json
+
+# Visual Studio cache directories
+.vs/
+.vscode/
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# NuGet packages
+*.nupkg
