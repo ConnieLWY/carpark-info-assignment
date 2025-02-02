@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\carpark-info-assignment.props" />
+</Project>

@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\HandshakesByDC-BEAssignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CE2F9371-2784-41D7-B8B7-B5C058660FF4}|HandshakesByDC-BEAssignment.csproj|c:\\users\\user\\source\\repos\\handshakesbydc-beassignment\\backgroundrefesh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE2F9371-2784-41D7-B8B7-B5C058660FF4}|HandshakesByDC-BEAssignment.csproj|solutionrelative:backgroundrefesh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE2F9371-2784-41D7-B8B7-B5C058660FF4}|HandshakesByDC-BEAssignment.csproj|c:\\users\\user\\source\\repos\\handshakesbydc-beassignment\\controllers\\v2\\carparkcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE2F9371-2784-41D7-B8B7-B5C058660FF4}|HandshakesByDC-BEAssignment.csproj|solutionrelative:controllers\\v2\\carparkcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE2F9371-2784-41D7-B8B7-B5C058660FF4}|HandshakesByDC-BEAssignment.csproj|c:\\users\\user\\source\\repos\\handshakesbydc-beassignment\\controllers\\v1\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE2F9371-2784-41D7-B8B7-B5C058660FF4}|HandshakesByDC-BEAssignment.csproj|solutionrelative:controllers\\v1\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE2F9371-2784-41D7-B8B7-B5C058660FF4}|HandshakesByDC-BEAssignment.csproj|c:\\users\\user\\source\\repos\\handshakesbydc-beassignment\\controllers\\v1\\carparkimportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE2F9371-2784-41D7-B8B7-B5C058660FF4}|HandshakesByDC-BEAssignment.csproj|solutionrelative:controllers\\v1\\carparkimportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE2F9371-2784-41D7-B8B7-B5C058660FF4}|HandshakesByDC-BEAssignment.csproj|c:\\users\\user\\source\\repos\\handshakesbydc-beassignment\\controllers\\v2\\favoritecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE2F9371-2784-41D7-B8B7-B5C058660FF4}|HandshakesByDC-BEAssignment.csproj|solutionrelative:controllers\\v2\\favoritecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE2F9371-2784-41D7-B8B7-B5C058660FF4}|HandshakesByDC-BEAssignment.csproj|c:\\users\\user\\source\\repos\\handshakesbydc-beassignment\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CE2F9371-2784-41D7-B8B7-B5C058660FF4}|HandshakesByDC-BEAssignment.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE2F9371-2784-41D7-B8B7-B5C058660FF4}|HandshakesByDC-BEAssignment.csproj|c:\\users\\user\\source\\repos\\handshakesbydc-beassignment\\controllers\\v2\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE2F9371-2784-41D7-B8B7-B5C058660FF4}|HandshakesByDC-BEAssignment.csproj|solutionrelative:controllers\\v2\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE2F9371-2784-41D7-B8B7-B5C058660FF4}|HandshakesByDC-BEAssignment.csproj|c:\\users\\user\\source\\repos\\handshakesbydc-beassignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE2F9371-2784-41D7-B8B7-B5C058660FF4}|HandshakesByDC-BEAssignment.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HandshakesByDC-BEAssignment\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\HandshakesByDC-BEAssignment\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAHgAAAAAAAAAAAAAAIAAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T15:10:34.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HandshakesByDC-BEAssignment\\Controllers\\v2\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\v2\\AuthController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\HandshakesByDC-BEAssignment\\Controllers\\v2\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\v2\\AuthController.cs",
+              "ViewState": "AQIAAG4AAAAAAAAAAAAUwIAAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T15:25:42.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HandshakesByDC-BEAssignment\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\HandshakesByDC-BEAssignment\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-02T15:18:53.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FavoriteController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HandshakesByDC-BEAssignment\\Controllers\\v2\\FavoriteController.cs",
+              "RelativeDocumentMoniker": "Controllers\\v2\\FavoriteController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\HandshakesByDC-BEAssignment\\Controllers\\v2\\FavoriteController.cs",
+              "RelativeToolTip": "Controllers\\v2\\FavoriteController.cs",
+              "ViewState": "AQIAAHYAAAAAAAAAAAAkwIoAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T15:12:48.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CarparkImportController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HandshakesByDC-BEAssignment\\Controllers\\v1\\CarparkImportController.cs",
+              "RelativeDocumentMoniker": "Controllers\\v1\\CarparkImportController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\HandshakesByDC-BEAssignment\\Controllers\\v1\\CarparkImportController.cs",
+              "RelativeToolTip": "Controllers\\v1\\CarparkImportController.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAQwC4AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T15:16:46.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HandshakesByDC-BEAssignment\\Controllers\\v1\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\v1\\UserController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\HandshakesByDC-BEAssignment\\Controllers\\v1\\UserController.cs",
+              "RelativeToolTip": "Controllers\\v1\\UserController.cs",
+              "ViewState": "AQIAALYAAAAAAAAAAAAgwNsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T15:16:49.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CarparkController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HandshakesByDC-BEAssignment\\Controllers\\v2\\CarparkController.cs",
+              "RelativeDocumentMoniker": "Controllers\\v2\\CarparkController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\HandshakesByDC-BEAssignment\\Controllers\\v2\\CarparkController.cs",
+              "RelativeToolTip": "Controllers\\v2\\CarparkController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T15:12:36.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BackgroundRefesh.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HandshakesByDC-BEAssignment\\BackgroundRefesh.cs",
+              "RelativeDocumentMoniker": "BackgroundRefesh.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\HandshakesByDC-BEAssignment\\BackgroundRefesh.cs",
+              "RelativeToolTip": "BackgroundRefesh.cs",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAwwFEAAABiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T16:03:58.781Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
